@@ -8,10 +8,10 @@ export default class Footer extends Component {
                     <div className="row">
                         <div className="twelve columns">
                             <ul className="social-links">
-                                <li><a href="#"><i className="fa fa-twitter" /></a></li>
+                                
                                 <li><a href="#"><i className="fa fa-linkedin" /></a></li>
                                 <li><a href="https://github.com/OlaoluwaLewis" target={"blank"}><i className="fa fa-github" /></a></li>
-                                <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i className="fa fa-instagram" /></a></li>
                             </ul>
                             <ul className="copyright">
                                 <li>© Copyright 2022 Olaoluwa Lewis</li>

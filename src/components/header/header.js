@@ -25,10 +25,10 @@ export default class Header extends Component {
                             <hr />
                             <ul className="social">
                                 
-                                <li><a href="#"><i className="fa fa-twitter" /></a></li>
+                               
                                 <li><a href="#"><i className="fa fa-linkedin" /></a></li>
                                 <li><a href="https://github.com/OlaoluwaLewis" target="blank"><i className="fa fa-github" /></a></li>
-                                <li><a href="#"><i className="fa fa-whatsapp" /></a></li>
+                                <li><a href="#"><i className="fa fa-instagram" /></a></li>
                             </ul>
                         </div>
                     </div>
