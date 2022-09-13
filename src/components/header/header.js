@@ -27,8 +27,8 @@ export default class Header extends Component {
                                 
                                 <li><a href="#"><i className="fa fa-twitter" /></a></li>
                                 <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-                                <li><a href="https://github.com/JLewis444" target="blank"><i className="fa fa-github" /></a></li>
-                                <li><a href="#"><i className="fa fa-skype" /></a></li>
+                                <li><a href="https://github.com/OlaoluwaLewis" target="blank"><i className="fa fa-github" /></a></li>
+                                <li><a href="#"><i className="fa fa-whatsapp" /></a></li>
                             </ul>
                         </div>
                     </div>
