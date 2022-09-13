@@ -10,9 +10,8 @@ export default class Contact extends Component {
                             <h1><span>Get In Touch.</span></h1>
                         </div>
                         <div className="ten columns">
-                            <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                              eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                              voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                            <p className="lead">Please leave me a message, and I would get back to you as soon as possible.
+
             </p>
                         </div>
                     </div>
@@ -54,12 +53,11 @@ export default class Contact extends Component {
                         </div>
                         <aside className="four columns footer-widgets">
                             <div className="widget widget_contact">
-                                <h4>Address and Phone</h4>
+                                <h4>Name and Phone</h4>
                                 <p className="address">
                                     Olaoluwa Lewis<br />
                                      <br />
-                                    <br />
-                                    <span>(123) 456-7890</span>
+                                <span>+49 170 9359770</span>
                                 </p>
                             </div>
                         </aside>
